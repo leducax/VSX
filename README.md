@@ -3,4 +3,4 @@
 <br>
 
 # VSX
- - VulnScanX
+ - VulnScanX, Scanner de vulnérabilités web avec exploitation et récupération de données.
